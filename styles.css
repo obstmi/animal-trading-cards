@@ -18,8 +18,9 @@ h3 {
 
 /* Image */
 img {
-  width: 300px;
+  width: 298px;
   margin: 0 10px;
+  border: 1px solid #d4d4d4;
 }
 
 /* Description Section */
